@@ -216,3 +216,5 @@ browser key store ([`lib/browser/keystore.ts`](lib/browser/keystore.ts)).
 | `POST /api/ipfs` | multipart passthrough to the API's `POST /api/ipfs` |
 
 MIT.
+
+<!-- icons -->
