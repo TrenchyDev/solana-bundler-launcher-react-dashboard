@@ -218,3 +218,4 @@ browser key store ([`lib/browser/keystore.ts`](lib/browser/keystore.ts)).
 MIT.
 
 <!-- icons -->
+.
